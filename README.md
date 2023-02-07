@@ -1,7 +1,7 @@
-###### Josue David Bautista Orozco
+# Josue David Bautista Orozco
  Hola, soy estudiante de Ingenieria en sistemas en la **Universidad Rafael Landívar** campus Quetzaltenango.
 
-## Mis películas favoritas
+### Mis películas favoritas
 * Simpre a tu lado
 * Cars
 * La trilogia de Spiderman
