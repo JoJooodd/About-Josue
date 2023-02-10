@@ -7,3 +7,5 @@
 * La trilogia de Spiderman
 * Life in a Year
 * Somos como niños
+* Proyecto X
+* Super Cool
