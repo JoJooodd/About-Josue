@@ -11,6 +11,4 @@
 * Super Cool
 
 ### Mis series favoritas
-> The Simpsons
-> Rick and Morty
-> Stranger Things 
+> The Simpsons, Rick and Morty, Breaking Bad, Better Call Saul
