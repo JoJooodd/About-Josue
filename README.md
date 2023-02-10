@@ -9,3 +9,8 @@
 * Somos como niños
 * Proyecto X
 * Super Cool
+
+### Mis series favoritas
+> The Simpsons
+> Rick and Morty
+> Stranger Things 
